@@ -1,25 +1,23 @@
 const { i18n } = require('./next-i18next.config');
-const withPWAInit = require('next-pwa');
 const runtimeCaching = require('next-pwa/cache');
-
-const isDev = process.env.NODE_ENV === 'development';
-const withPWA = withPWAInit({
+const withPWA = require('next-pwa')({
   dest: 'public',
   register: true,
   skipWaiting: true,
-  disable: isDev,
+  disable: process.env.NODE_ENV === 'development',
   runtimeCaching,
   buildExcludes: [/middleware-manifest.json$/],
 });
 
-module.exports = withPWA({
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   i18n,
   reactStrictMode: true,
   eslint: {
-    ignoreDuringBuilds: true, // ✅ abaikan semua lint error saat build
+    ignoreDuringBuilds: true, // ✅ abaikan error ESLint
   },
   typescript: {
-    ignoreBuildErrors: true, // ✅ abaikan error TS agar tidak blokir build
+    ignoreBuildErrors: true, // ✅ abaikan error TS
   },
   webpack: (config) => {
     config.module.rules.push({
@@ -28,4 +26,6 @@ module.exports = withPWA({
     });
     return config;
   },
-});
+};
+
+module.exports = withPWA(nextConfig);
