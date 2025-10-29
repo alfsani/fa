@@ -1,0 +1,90 @@
+{
+  "download": "ダウンロード",
+  "random": "ランダム",
+  "embed": "埋め込み",
+  "choose": "スタイルを選択",
+  "face": "顔",
+  "nose": "鼻",
+  "mouth": "口",
+  "eyes": "目",
+  "eyebrows": "眉毛",
+  "glasses": "メガネ",
+  "hair": "髪型",
+  "accessories": "アクセサリー",
+  "details": "詳細",
+  "beard": "ひげ",
+  "github": "GitHub",
+  "dribbble": "Dribbble",
+  "twitter": "𝕏",
+  "coffee": "コーヒーを買って支援",
+  "illustrations": "イラスト",
+  "underDesign": "と",
+  "designedBy": "デザイン：",
+  "license": "ライセンス",
+  "coffeeUrl": "https://ko-fi.com/mayandev",
+  "modalTitle": "もう少しです",
+  "modalHint": "長押しまたは右クリックでアバターを保存できます",
+  "modalCancel": "キャンセル",
+  "modalConfirm": "確認",
+  "siteTitle": "Notion アバターメーカー",
+  "siteDescription": "Notion手書きスタイルのアバターメーカーツール。顔の特徴、髪型、メガネ、ひげ、アクセサリーをカスタマイズして、ワンクリックで独自のアバターを作成できます。Notion、GitHub、Twitterなどのソーシャルプラットフォームに最適で、チームコラボレーションやパーソナルブランディングにぴったりです。今すぐ試して、あなただけのNotionスタイルのアバターを簡単に作成しましょう！",
+  "siteKeywords": "Notionアバター,アバターメーカー,Notionスタイル,手書きアバター,カスタムアバター,ミニマルアバター,チームアバター,個人ブランド,SNSアバター,SVGアバター,PNGアバター,無料アバター作成,オンラインアバター生成,GitHubアバター,Twitterアバター",
+  "404Title": "ページが見つかりません",
+  "404Redirect": "ホームに戻る",
+  "copy": "コピー",
+  "copied": "コピーしました",
+  "downloadTip": "現在、SVGとPNG形式に対応しています。ダウンロードボタンで形式を変更できます",
+  "flip": "反転",
+  "background": "背景",
+  "paletteTitle": "背景を選択",
+  "chooseShape": "形を選択",
+  "customColor": "カスタムカラー",
+  "choosePart": "選択",
+  "Choose item": "{{item}}を{{choose}}",
+  "halloween": "ハロウィン",
+  "christmas": "クリスマス",
+  "downloadSuccess": "ダウンロード完了",
+  "shareModalHint": "お気に入りのSNSでシェアしましょう！",
+  "shareContent": "Notion Avatar Makerで可愛いアバターを作りました！見てください！",
+  "avatarMaker": "アバターメーカー",
+  "whosUsing": "利用者",
+  "whosUsingDescription": "世界中のチームや個人がNotion Avatarを使用しています",
+  "useCases": "使用シーン",
+  "useCasesDescription": "Notion風アバターの多様な活用方法をご紹介",
+  "you": "あなた",
+  "chatDemo": {
+    "message1": "新しいアバターを見てください！",
+    "message2": "すごくいいですね！どこで作ったんですか？",
+    "message3": "このサイトです",
+    "message4": "共有ありがとう！私も変更しました！",
+    "inputPlaceholder": "メッセージを入力...",
+    "send": "送信"
+  },
+  "socialDemo": {
+    "name": "田中太郎",
+    "handle": "tarotanaka",
+    "bio": "フルスタックエンジニア / オープンソース愛好家",
+    "tweet": "Notion Avatar Maker で新しいアバターを作りました！このミニマルなデザインが素敵 ✨",
+    "shareTitle": "Notionスタイルのアバターをシェア",
+    "shareText": "Notion Avatar Maker で作った新しいアバターをチェックしてください！"
+  },
+  "resourceStore": {
+    "title": "デザインリソース",
+    "description": "Notion Avatar Maker の完全なデザインリソースパック（ウェブサイトデザインと装飾要素を含む）",
+    "buyNow": "今すぐ購入",
+    "designPack": {
+      "title": "完全なウェブサイトデザイン",
+      "description": "すべてのページの Figma デザインファイル",
+      "features": {
+        "1": "レスポンシブデザイン"
+      }
+    },
+    "scribblesPack": {
+      "title": "手書き要素パック",
+      "description": "Notion スタイルの手書き装飾要素でデザインに楽しさを追加",
+      "features": {
+        "1": "100以上の手書き要素"
+      }
+    }
+  }
+}

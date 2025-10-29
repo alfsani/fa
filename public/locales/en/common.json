@@ -1,0 +1,90 @@
+{
+  "download": "Download",
+  "random": "Random",
+  "embed": "Embed",
+  "choose": "Choose your styles",
+  "face": "Face",
+  "nose": "Nose",
+  "mouth": "Mouth",
+  "eyes": "Eyes",
+  "eyebrows": "Eyebrows",
+  "glasses": "Glasses",
+  "hair": "Hair",
+  "accessories": "Accessories",
+  "details": "Details",
+  "beard": "Beard",
+  "github": "GitHub",
+  "dribbble": "Dribbble",
+  "twitter": "𝕏",
+  "coffee": "Buy Me A Coffee",
+  "illustrations": "Illustrations ",
+  "underDesign": "and under",
+  "designedBy": "designed by",
+  "license": "license",
+  "coffeeUrl": "https://ko-fi.com/mayandev",
+  "modalTitle": "Almost done",
+  "modalHint": "Long press or click the right mouse button to save the avatar to your album",
+  "modalCancel": "Cancel",
+  "modalConfirm": "Confirm",
+  "siteTitle": "Notion Avatar Maker",
+  "siteDescription": "A Notion hand-drawn style avatar maker tool that supports customizing facial features, hairstyles, glasses, beards, and accessories to generate unique personal avatars with one click. Perfect for Notion, GitHub, Twitter, and other social platforms, ideal for team collaboration and personal branding. Try it now and easily create your own Notion-style avatar!",
+  "404Title": "Oops! Page Not Found.",
+  "404Redirect": "Back To Home",
+  "copy": "Copy",
+  "copied": "Copied",
+  "downloadTip": "Currently supports svg and png formats, try changing the format at the download button",
+  "flip": "Flip",
+  "background": "Background",
+  "paletteTitle": "Choose background",
+  "chooseShape": "Choose shape",
+  "customColor": "DIY color value",
+  "choosePart": "Choose",
+  "Choose item": "{{choose}} {{item}}",
+  "halloween": "Halloween",
+  "christmas": "Christmas",
+  "downloadSuccess": "Download Success",
+  "shareModalHint": "Share to your favorite social media!",
+  "shareContent": "I just created an avatar with Notion Avatar Maker, check it out!",
+  "avatarMaker": "Avatar Maker",
+  "siteKeywords": "Notion Avatar,Avatar Maker,Notion Style,Hand-drawn Avatar,Custom Avatar,Minimalist Avatar,Team Avatar,Personal Brand,Social Media Avatar,SVG Avatar,PNG Avatar,Free Avatar Creator,Online Avatar Generator,GitHub Avatar,Twitter Avatar",
+  "whosUsing": "Who's Using",
+  "whosUsingDescription": "Teams and individuals around the world are using Notion Avatar",
+  "useCases": "Use Cases",
+  "useCasesDescription": "Explore the versatile applications of Notion-style avatars",
+  "you": "You",
+  "chatDemo": {
+    "message1": "Check out my new avatar!",
+    "message2": "Wow, looks great! Where did you get it?",
+    "message3": "from this website",
+    "message4": "Thanks for sharing! Just updated mine!",
+    "inputPlaceholder": "Type your message...",
+    "send": "Send"
+  },
+  "socialDemo": {
+    "name": "Phill Zou",
+    "handle": "phillzou",
+    "bio": "Full-stack Engineer / Open Source Enthusiast",
+    "tweet": "Just created my new avatar with Notion Avatar Maker! Love this minimalist design style ✨",
+    "shareTitle": "Share my Notion-style Avatar",
+    "shareText": "Check out my new avatar made with Notion Avatar Maker!"
+  },
+  "resourceStore": {
+    "title": "Design Resources",
+    "description": "Get the complete design resource pack for Notion Avatar Maker, including website design and decorative elements",
+    "buyNow": "Buy Now",
+    "designPack": {
+      "title": "Complete Website Design",
+      "description": "Includes Figma design files for all pages",
+      "features": {
+        "1": "Responsive design"
+      }
+    },
+    "scribblesPack": {
+      "title": "Hand-drawn Elements Pack",
+      "description": "Notion-style hand-drawn decorative elements to add fun to your design",
+      "features": {
+        "1": "100+ hand-drawn elements"
+      }
+    }
+  }
+}

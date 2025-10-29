@@ -1,0 +1,90 @@
+{
+  "download": "下载",
+  "random": "随机一下",
+  "embed": "复制链接",
+  "choose": "请选择一种风格",
+  "face": "脸型",
+  "nose": "鼻子",
+  "mouth": "嘴巴",
+  "eyes": "眼睛",
+  "eyebrows": "眉毛",
+  "glasses": "眼镜",
+  "hair": "发型",
+  "accessories": "装饰",
+  "details": "细节",
+  "beard": "胡须",
+  "github": "代码",
+  "dribbble": "设计稿",
+  "twitter": "联系我",
+  "coffee": "捐赠",
+  "illustrations": "插画",
+  "underDesign": "设计且基于",
+  "designedBy": "由",
+  "license": "协议",
+  "coffeeUrl": "https://ko-fi.com/mayandev",
+  "modalTitle": "最后一步",
+  "modalHint": "长按图片或者右键保存头像至本地相册",
+  "modalCancel": "关闭",
+  "modalConfirm": "确认",
+  "siteTitle": "Notion 风格头像制作",
+  "siteDescription": "一个 Notion 手绘风格头像制作工具，支持自定义面部特征、发型、眼镜、胡须和配饰，一键生成独特的个人头像。适用于 Notion、GitHub、Twitter 等社交平台，完美契合团队协作和个人品牌打造。立即体验，轻松创建专属于你的 Notion 风格头像！",
+  "404Title": "啊哦！页面走丢了。",
+  "404Redirect": "返回主页",
+  "copy": "复制",
+  "copied": "已复制",
+  "downloadTip": "目前支持 svg 和 png 格式，试试在下载按钮改变格式",
+  "flip": "翻转",
+  "background": "背景色",
+  "paletteTitle": "请选择一种背景颜色",
+  "chooseShape": "请选择一种背景形状",
+  "customColor": "更多颜色选择",
+  "Choose": "选择",
+  "Choose item": "{{choose}} {{item}}",
+  "halloween": "万圣节装饰",
+  "christmas": "圣诞节装饰",
+  "downloadSuccess": "下载成功",
+  "shareModalHint": "分享到你喜欢的社交媒体吧！",
+  "shareContent": "我用 Notion 风格头像制作器生成了一个头像，快来看看吧！",
+  "avatarMaker": "头像制作",
+  "siteKeywords": "Notion 头像,头像生成器,Notion Avatar,手绘风格头像,个性化头像,自定义头像简约头像,团队头像,个人品牌,社交媒体头像,SVG头像,PNG头像,免费头像制作,在线头像生成,GitHub头像,Twitter头像",
+  "whosUsing": "谁在使用",
+  "whosUsingDescription": "来自全球的团队和个人都在使用 Notion Avatar",
+  "useCases": "使用场景",
+  "useCasesDescription": "探索 Notion 风格头像的多种应用场景",
+  "you": "你",
+  "chatDemo": {
+    "message1": "给你看看我新设置的头像！",
+    "message2": "哇，看起来很赞！你从哪里获取的？",
+    "message3": "这个网站",
+    "message4": "谢谢分享！已经换上了！",
+    "inputPlaceholder": "输入消息...",
+    "send": "发送"
+  },
+  "socialDemo": {
+    "name": "张小明",
+    "handle": "xiaoming",
+    "bio": "全栈工程师 / 开源爱好者",
+    "tweet": "刚用 Notion Avatar Maker 制作了新头像！简约的设计风格真的太棒了 ✨",
+    "shareTitle": "分享我的 Notion 风格头像",
+    "shareText": "快来看看我用 Notion Avatar Maker 制作的新头像！"
+  },
+  "resourceStore": {
+    "title": "设计资源",
+    "description": "获取 Notion Avatar Maker 的完整设计资源包，包含网站设计稿和装饰元素",
+    "buyNow": "立即购买",
+    "designPack": {
+      "title": "完整网站设计稿",
+      "description": "包含所有页面的 Figma 设计稿",
+      "features": {
+        "1": "响应式设计"
+      }
+    },
+    "scribblesPack": {
+      "title": "手绘装饰元素包",
+      "description": "Notion 风格的手绘装饰元素，为你的设计添加趣味性",
+      "features": {
+        "1": "100+ 手绘装饰元素"
+      }
+    }
+  }
+}

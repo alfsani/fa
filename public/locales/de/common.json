@@ -1,0 +1,90 @@
+{
+  "download": "Herunterladen",
+  "random": "Zufällig",
+  "embed": "Einbetten",
+  "choose": "Wähle deinen Stil",
+  "face": "Gesicht",
+  "nose": "Nase",
+  "mouth": "Mund",
+  "eyes": "Augen",
+  "eyebrows": "Augenbrauen",
+  "glasses": "Brille",
+  "hair": "Haare",
+  "accessories": "Accessoires",
+  "details": "Details",
+  "beard": "Bart",
+  "github": "GitHub",
+  "dribbble": "Dribbble",
+  "twitter": "𝕏",
+  "coffee": "Spendiere mir einen Kaffee",
+  "illustrations": "Illustrationen",
+  "underDesign": "und unter",
+  "designedBy": "designed von",
+  "license": "Lizenz",
+  "coffeeUrl": "https://ko-fi.com/mayandev",
+  "modalTitle": "Fast fertig",
+  "modalHint": "Lange drücken oder rechtsklicken um den Avatar in deinem Album zu speichern",
+  "modalCancel": "Abbrechen",
+  "modalConfirm": "Bestätigen",
+  "siteTitle": "Notion Avatar Ersteller",
+  "siteDescription": "Ein Notion-Handzeichnungsstil Avatar-Maker-Tool, mit dem Sie Gesichtszüge, Frisuren, Brillen, Bärte und Accessoires anpassen können, um mit einem Klick einzigartige persönliche Avatare zu erstellen. Perfekt für Notion, GitHub, Twitter und andere soziale Plattformen, ideal für Teamzusammenarbeit und persönliches Branding. Probieren Sie es jetzt aus und erstellen Sie ganz einfach Ihren eigenen Notion-Style Avatar!",
+  "siteKeywords": "Notion Avatar,Avatar Ersteller,Notion Stil,Handgezeichneter Avatar,Individueller Avatar,Minimalistischer Avatar,Team Avatar,Persönliche Marke,Social Media Avatar,SVG Avatar,PNG Avatar,Kostenloser Avatar Creator,Online Avatar Generator,GitHub Avatar,Twitter Avatar",
+  "404Title": "Ups! Seite nicht gefunden",
+  "404Redirect": "Zurück zur Startseite",
+  "copy": "Kopieren",
+  "copied": "Kopiert",
+  "downloadTip": "Unterstützt derzeit svg und png Formate, versuche das Format über den Download-Button zu ändern",
+  "flip": "Spiegeln",
+  "background": "Hintergrund",
+  "paletteTitle": "Hintergrund wählen",
+  "chooseShape": "Form wählen",
+  "customColor": "Eigene Farbe",
+  "choosePart": "Wählen",
+  "Choose item": "{{item}} {{choose}}",
+  "halloween": "Halloween",
+  "christmas": "Weihnachten",
+  "downloadSuccess": "Download erfolgreich",
+  "shareModalHint": "Teile es in deinen sozialen Medien!",
+  "shareContent": "Ich habe gerade einen Avatar mit Notion Avatar Maker erstellt, schau mal!",
+  "avatarMaker": "Avatar Ersteller",
+  "whosUsing": "Wer nutzt es",
+  "whosUsingDescription": "Teams und Einzelpersonen auf der ganzen Welt nutzen Notion Avatar",
+  "useCases": "Anwendungsfälle",
+  "useCasesDescription": "Entdecken Sie die vielfältigen Einsatzmöglichkeiten der Notion-Style Avatare",
+  "you": "Du",
+  "chatDemo": {
+    "message1": "Schau dir meinen neuen Avatar an!",
+    "message2": "Wow, sieht toll aus! Wo hast du den her?",
+    "message3": "von dieser Website",
+    "message4": "Danke fürs Teilen! Habe meinen gerade aktualisiert!",
+    "inputPlaceholder": "Nachricht eingeben...",
+    "send": "Senden"
+  },
+  "socialDemo": {
+    "name": "Phill Zou",
+    "handle": "phillzou",
+    "bio": "Fullstack-Entwickler / Open-Source-Enthusiast",
+    "tweet": "Habe gerade meinen Avatar mit Notion Avatar Maker erstellt! Liebe diesen minimalistischen Stil ✨",
+    "shareTitle": "Teile meinen Notion-Style Avatar",
+    "shareText": "Schau dir meinen neuen Avatar an, erstellt mit Notion Avatar Maker!"
+  },
+  "resourceStore": {
+    "title": "Design-Ressourcen",
+    "description": "Holen Sie sich das komplette Design-Ressourcenpaket für Notion Avatar Maker, einschließlich Website-Design und dekorativer Elemente",
+    "buyNow": "Jetzt kaufen",
+    "designPack": {
+      "title": "Komplettes Website-Design",
+      "description": "Enthält Figma-Designdateien für alle Seiten",
+      "features": {
+        "1": "Responsives Design"
+      }
+    },
+    "scribblesPack": {
+      "title": "Handgezeichnete Elemente Paket",
+      "description": "Notion-Style handgezeichnete Dekorationselemente für mehr Spaß in Ihrem Design",
+      "features": {
+        "1": "Über 100 handgezeichnete Elemente"
+      }
+    }
+  }
+}

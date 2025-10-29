@@ -1,0 +1,90 @@
+{
+  "download": "Télécharger",
+  "random": "Aléatoire",
+  "embed": "Intégrer",
+  "choose": "Choisissez votre style",
+  "face": "Visage",
+  "nose": "Nez",
+  "mouth": "Bouche",
+  "eyes": "Yeux",
+  "eyebrows": "Sourcils",
+  "glasses": "Lunettes",
+  "hair": "Cheveux",
+  "accessories": "Accessoires",
+  "details": "Détails",
+  "beard": "Barbe",
+  "github": "GitHub",
+  "dribbble": "Dribbble",
+  "twitter": "𝕏",
+  "coffee": "Offrez-moi un café",
+  "illustrations": "Illustrations",
+  "underDesign": "et sous",
+  "designedBy": "conçu par",
+  "license": "licence",
+  "coffeeUrl": "https://ko-fi.com/mayandev",
+  "modalTitle": "Presque terminé",
+  "modalHint": "Appuyez longuement ou cliquez avec le bouton droit pour enregistrer l'avatar dans votre album",
+  "modalCancel": "Annuler",
+  "modalConfirm": "Confirmer",
+  "siteTitle": "Créateur d'Avatar Notion",
+  "siteDescription": "Un outil de création d'avatars style dessiné à la main Notion qui permet de personnaliser les traits du visage, les coiffures, les lunettes, les barbes et les accessoires pour générer des avatars uniques en un clic. Parfait pour Notion, GitHub, Twitter et autres plateformes sociales, idéal pour la collaboration d'équipe et l'image de marque personnelle. Essayez-le maintenant et créez facilement votre propre avatar style Notion !",
+  "siteKeywords": "Avatar Notion,Créateur d'Avatar,Style Notion,Avatar Dessiné,Avatar Personnalisé,Avatar Minimaliste,Avatar d'Équipe,Marque Personnelle,Avatar Réseaux Sociaux,Avatar SVG,Avatar PNG,Créateur d'Avatar Gratuit,Générateur d'Avatar en Ligne,Avatar GitHub,Avatar Twitter",
+  "404Title": "Oups ! Page non trouvée",
+  "404Redirect": "Retour à l'accueil",
+  "copy": "Copier",
+  "copied": "Copié",
+  "downloadTip": "Supporte actuellement les formats svg et png, essayez de changer le format sur le bouton de téléchargement",
+  "flip": "Retourner",
+  "background": "Arrière-plan",
+  "paletteTitle": "Choisir l'arrière-plan",
+  "chooseShape": "Choisir la forme",
+  "customColor": "Couleur personnalisée",
+  "choosePart": "Choisir",
+  "Choose item": "{{choose}} {{item}}",
+  "halloween": "Halloween",
+  "christmas": "Noël",
+  "downloadSuccess": "Téléchargement réussi",
+  "shareModalHint": "Partagez sur vos réseaux sociaux préférés !",
+  "shareContent": "Je viens de créer un avatar avec Notion Avatar Maker, regardez ça !",
+  "avatarMaker": "Créateur d'Avatar",
+  "whosUsing": "Qui l'utilise",
+  "whosUsingDescription": "Des équipes et des individus du monde entier utilisent Notion Avatar",
+  "useCases": "Cas d'utilisation",
+  "useCasesDescription": "Découvrez les applications polyvalentes des avatars style Notion",
+  "you": "Vous",
+  "chatDemo": {
+    "message1": "Regardez mon nouvel avatar !",
+    "message2": "Wow, c'est super ! Où l'as-tu trouvé ?",
+    "message3": "sur ce site",
+    "message4": "Merci pour le partage ! Je viens de mettre à jour le mien !",
+    "inputPlaceholder": "Tapez votre message...",
+    "send": "Envoyer"
+  },
+  "socialDemo": {
+    "name": "Phill Zou",
+    "handle": "phillzou",
+    "bio": "Développeur Full-stack / Passionné d'Open Source",
+    "tweet": "Je viens de créer mon avatar avec Notion Avatar Maker ! J'adore ce style minimaliste ✨",
+    "shareTitle": "Partager mon avatar style Notion",
+    "shareText": "Découvrez mon nouvel avatar créé avec Notion Avatar Maker !"
+  },
+  "resourceStore": {
+    "title": "Ressources de Design",
+    "description": "Obtenez le pack complet de ressources de design pour Notion Avatar Maker, incluant le design du site web et les éléments décoratifs",
+    "buyNow": "Acheter",
+    "designPack": {
+      "title": "Design Complet du Site Web",
+      "description": "Inclut les fichiers Figma pour toutes les pages",
+      "features": {
+        "1": "Design responsive"
+      }
+    },
+    "scribblesPack": {
+      "title": "Pack d'Éléments Dessinés à la Main",
+      "description": "Éléments décoratifs style Notion dessinés à la main pour ajouter du fun à votre design",
+      "features": {
+        "1": "Plus de 100 éléments dessinés à la main"
+      }
+    }
+  }
+}
